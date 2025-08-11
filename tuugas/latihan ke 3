@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web saya</title>
+</head> 
+<body>
+      <h1>Makrab</h1>
+      <h2>malam keakraban mahasiswa baru poloiteknik idn tahun 2025</h2>
+            <img src="assets/makrab idn .jpeg" alt="makrab" width="150pcs" style="display: block; margin: auto;">
+
+      <ol>
+        <span style="color: blueviolet;">hal yang harus di persiapkan</span>
+        <li>mental</li>
+        <li>fisik</li>
+        <li>uang</li>
+        <p>contoh video perkemahan untuk pemula</p>
+      </ol>
+       <div> <a href="https://www.google.com"> tekan sini </a> </div>
+        <iframe width="300" height="200" src="https://www.youtube.com/embed/kwutrrlOQ6s?si=p-dW_buKPbOHAXvV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="300" height="200" src="https://www.youtube.com/embed/lT1diHRI-BM?si=1U9sES9Nh33sRSJ-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      
+</body>
+</html>

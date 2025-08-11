@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tentang saya</title>
+</head>
+<body> 
+
+<!-- judul -->
+ <header>
+  <h1>Faiz umair hasbullah</h1>
+  <h2>software developer</h2>
+  <h3>perkenalkan <span style="color:blueviolet;">saya mahasiswa baru</span>  politeknk IDN <span>jurusan <span style="color: blueviolet;">TRPL</span></h3>
+  <a href="./structur.html"> structur html</a>
+</header>
+  <img src="./assets/orang ganteng.jpeg" alt="orang ganteng" width="200pcs">
+
+
+
+ <div>
+      <h2>gambar pemandangan</h2>
+      <img src="assets/pexels-lastly-772803.jpg" alt="puncak gunung" width="200px">
+  </div>
+  <img src="assets/pexels-lastly-772803.jpg" alt="puncak gunung" width="200px">
+
+ <!--bagian hobi  -->
+  <h2>hobi saya</h2>
+  <ul>
+       <li>bermain bola</li>
+       <li>belajar it</li>
+       <li>mempelajari hal baru</li>
+       <li>hiking</li>
+  </ul> 
+  <!-- bagian actifity -->
+  <h2>rutinitas saya</h2> 
+  <ol>
+        <li>bangun pagi</li>
+        <li>belajar it</li>
+        <li>membaca buku</li>
+  </ul>
+  
+</body>
+</html>
